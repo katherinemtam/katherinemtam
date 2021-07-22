@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   <p align="center">
   Speaking of doggos, here's mine!</br>
-  <img src="willow.jpg" width="50%"/>
+  <img src="willow.jpg" width="25%"/>
   </p>
 </div>
 
