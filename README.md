@@ -44,9 +44,9 @@ Tech Skills {
   databases: [ 'SQL/Postgres' ],
   testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
   tools_etc: [ 'Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 
-             'VSCode', 'ServiceNow', 'Explore Analytics', 'Miro', 'Notion'],
-  dev_practices: [ 'TDD', 'Red-Green-Refactor', 'Remote Collaboration', 'Agile Methodologies'],
-  currently_learning: [ 'Typescript', 'Python']
+               'VSCode', 'ServiceNow', 'Explore Analytics', 'Miro', 'Notion' ],
+  dev_practices: [ 'TDD', 'Red-Green-Refactor', 'Remote Collaboration', 'Agile Methodologies' ],
+  currently_learning: [ 'Typescript', 'Python' ]
  }
 ```
 
