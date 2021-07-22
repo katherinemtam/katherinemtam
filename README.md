@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   I love to tell stories through my work and aim to provide better UX through the optimization of processes. I believe in the practice of "learn by doing", and am looking for a team where we can learn and grow together while also making a positive impact.
 
-  When I'm not coding, you can find me playing games, running around petting all the doggos, or experimenting in the kitchen! 
+  When I'm not coding, you can find me playing video/board games, running around petting all the doggos, or experimenting in the kitchen! 
 
   <p align="center">
   Speaking of doggos, here's mine!</br>
