@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h1>
+<div align="left">
+  <h1 align="center">
       <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/>
       Welcome to my Github Profile!
       <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"> 
@@ -25,10 +25,17 @@ Here are some ideas to get you started:
   I love to tell stories through my work and aim to provide better UX through the optimization of processes. I believe in the practice of "learn by doing", and am looking for a team where we can learn and grow together while also making a positive impact.
 
   When I'm not coding, you can find me playing games, running around petting all the doggos, or experimenting in the kitchen! 
+
+  <p align="center">
+  Speaking of doggos, here's mine!</br>
+  <img src="willow.jpg" width="50%"/>
+  </p>
 </div>
 
+---
+
 <div align="left">
-  <h2>Tech Stack & Tools</h2>
+  <h2 align="center">Tech Stack & Tools</h2>
 
 ```js  
 Tech Skills {
@@ -44,9 +51,10 @@ Tech Skills {
 
 </div>
 
+---
 
 <div align="center">
-  <h2>Connect with me:</h2>
+  <h2>Connect with me!</h2>
   <a href="mailto:katherinemtam@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Hi%20Katherine, %0dI am reaching out to you in regards to..." target="_blank">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt=email style="margin-bottom: 5px;"/>
   </a>
