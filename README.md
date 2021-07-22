@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>
-      <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif1563480763" width="30"/>
+      <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/>
       Welcome to my Github Profile!
-      <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif1547582922" width="30"> 
+      <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"> 
   </h1>
     
   I'm a full-stack software engineer with a background in healthcare and corporate IT. Being a project manager and software engineer, I've enjoyed the process of creating something out of nothing. 
