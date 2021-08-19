@@ -52,8 +52,14 @@ Tech Skills {
 
 </div>
 
----
+<div align="center"> 
+  
+[![My github stats](https://github-readme-stats.vercel.app/api?username=katherinemtam&hide=stars,issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/prudhomk/github-readme-stats)
+  
+</div>
 
+
+---
 <div align="center">
   <h2>Connect with me!</h2>
   <a href="mailto:katherinemtam@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Hi%20Katherine, %0dI am reaching out to you in regards to..." target="_blank">
@@ -68,3 +74,6 @@ Tech Skills {
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
+
+
+
