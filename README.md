@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 ```js  
 Tech Skills {
   languages: [ 'Javascript', 'HTML', 'CSS' ],
-  frameworks_and_libraries: [ 'React', 'Redux', 'Node', 'Express'],
+  frameworks_and_libraries: [ 'React', 'Node', 'Express', 'socket.io', TailwindCSS ],
   databases: [ 'SQL/Postgres' ],
   testing_suites: [ 'Jest', 'Supertest', 'QUnit', 'React Testing Library'],
   tools_etc: [ 'Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 
                'VSCode', 'ServiceNow', 'Explore Analytics', 'Miro', 'Notion' ],
   dev_practices: [ 'TDD', 'Red-Green-Refactor', 'Remote Collaboration', 'Agile Methodologies' ],
-  currently_learning: [ 'Typescript', 'Python' ]
+  currently_learning: [ 'Typescript', 'Python', 'GraphQL' ]
  }
 ```
 
