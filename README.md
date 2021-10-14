@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ```js  
 Tech Skills {
   languages: [ 'Javascript', 'HTML', 'CSS' ],
-  frameworks_and_libraries: [ 'React', 'Node', 'Express', 'socket.io', TailwindCSS ],
+  frameworks_and_libraries: [ 'React', 'Node', 'Express', 'socket.io', 'TailwindCSS' ],
   databases: [ 'SQL/Postgres' ],
   testing_suites: [ 'Jest', 'Supertest', 'QUnit', 'React Testing Library' ],
   tools_etc: [ 'Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 
